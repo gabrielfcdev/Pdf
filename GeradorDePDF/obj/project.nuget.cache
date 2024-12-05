@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "824QHf1Tl9g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GCalixto\\OneDrive - SEBRAE\\Documentos\\Soft\\Pdf\\GeradorDePDF\\GeradorDePDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GCalixto\\.nuget\\packages\\questpdf\\2024.12.0\\questpdf.2024.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
